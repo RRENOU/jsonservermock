@@ -1,0 +1,24 @@
+{
+    "delivery_rounds": [
+        {
+            "max_order_limit": 12,
+            "delivery_days": null,
+            "delivery_delay": 2,
+            "minimum_order_type": "Montant",
+            "minimum_order_unit": null,
+            "minimum_order_value": 0,
+            "shipping_tax_type": "Montant",
+            "shipping_tax_unit": "",
+            "shipping_tax_test_value": 200,
+            "shipping_tax_under_amount": 30,
+            "shipping_tax_over_amount": 0,
+            "comment": ""
+          }
+    ],
+    "has_client_codes": [
+        {
+            "existing_client_code": 1,
+            "pending_client_code": 0
+          }
+    ]
+  }
