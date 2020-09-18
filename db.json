@@ -2,7 +2,16 @@
     "delivery_rounds":
         {
             "max_order_limit": 12,
-            "delivery_days": null,
+            "client_code": "123test",
+              "delivery_days": {
+                "Fri": true,
+                "Mon": true,
+                "Sat": true,
+                "Sun": false,
+                "Thu": true,
+                "Tue": true,
+                "Wed": true
+              },
             "delivery_delay": 2,
             "minimum_order_type": "Montant",
             "minimum_order_unit": null,
