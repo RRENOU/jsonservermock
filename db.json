@@ -1,5 +1,5 @@
 {
-    "delivery_rounds": [
+    "delivery_rounds":
         {
             "max_order_limit": 12,
             "delivery_days": null,
@@ -13,12 +13,10 @@
             "shipping_tax_under_amount": 30,
             "shipping_tax_over_amount": 0,
             "comment": ""
-          }
-    ],
-    "has_client_codes": [
+          },
+    "has_client_codes": 
         {
             "existing_client_code": 1,
             "pending_client_code": 0
           }
-    ]
   }
