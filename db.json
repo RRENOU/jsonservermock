@@ -5,11 +5,11 @@
             "client_code": "123test",
               "delivery_days": {
                 "Fri": true,
-                "Mon": true,
+                "Mon": false,
                 "Sat": true,
                 "Sun": false,
                 "Thu": true,
-                "Tue": true,
+                "Tue": false,
                 "Wed": true
               },
             "delivery_delay": 2,
